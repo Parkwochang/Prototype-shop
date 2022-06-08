@@ -8,7 +8,7 @@ export default function Header() {
           these examples to learn exactly how they made their interactions.
         </div>
         <div className="btn_area">
-          <a href="http://www.protopie.io" target="BLANK" rel="noreferrer">
+          <a href="http://www.protopie.io" target="_BLANK" rel="noreferrer">
             <button style={{ margin: "20px 0" }}>Try ProtoPie Yourself</button>
           </a>
         </div>
